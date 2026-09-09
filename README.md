@@ -1,11 +1,13 @@
 # Olá, eu sou Breno Scaffo 👋
 
 PT-BR
+
 Sou **Cientista de Dados/Analista de Dados** com formação em **Estatística** e experiência no desenvolvimento de soluções de Machine Learning, Inteligência Artificial, Engenharia de Dados e Analytics. Tenho interesse em transformar dados em produtos que gerem impacto para o negócio, desde a exploração e engenharia de dados até a construção, implantação e monitoramento de modelos preditivos.
 
 Atualmente, concentro meus estudos e projetos em IA Generativa, LLMs, RAG, MLOps e desenvolvimento de aplicações inteligentes.
 
 US-EN
+
 I am a **Data Scientist/Data Analyst** with a degree in Statistics and experience in developing solutions involving Machine Learning, Artificial Intelligence, Data Engineering, and Analytics. I am passionate about transforming data into products that generate business impact, from data exploration and engineering to the development, deployment, and monitoring of predictive models.
 
 Currently, I am focusing my studies and projects on Generative AI, LLMs, RAG, MLOps, and the development of intelligent applications.
