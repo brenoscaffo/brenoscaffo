@@ -11,6 +11,7 @@ US-EN
 I am a **Data Scientist/Data Analyst** with a degree in Statistics and experience in developing solutions involving Machine Learning, Artificial Intelligence, Data Engineering, and Analytics. I am passionate about transforming data into products that generate business impact, from data exploration and engineering to the development, deployment, and monitoring of predictive models.
 
 Currently, I am focusing my studies and projects on Generative AI, LLMs, RAG, MLOps, and the development of intelligent applications.
+
 ---
 
 ## 🚀 Principais tecnologias
